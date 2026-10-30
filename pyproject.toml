@@ -1,0 +1,10 @@
+[project]
+name = "repo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.15"
+dependencies = [
+    "geopandas>=1.2.0",
+    "polars>=2.1.0",
+]
